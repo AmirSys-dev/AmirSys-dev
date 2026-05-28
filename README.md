@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Muhammad%20Amiruddin&fontSize=70&fontAlignY=36&fontColor=ffffff&desc=Mr.Arsyad%20%E2%80%A2%20Elite%20Programmer%20%E2%80%A2%20Student%20%40%20SMK%20Paduka%20Tuan%20Segamat&descAlignY=55&descAlign=50&descSize=15&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Muhammad%20Amiruddin&fontSize=70&fontAlignY=36&fontColor=ffffff&desc=Mr.Arsyad%20%E2%80%A2%20Elite%20Programmer%20%E2%80%A2%20Fullstack%20%26%20Security%20Enthusiast&descAlignY=55&descAlign=50&descSize=15&animation=twinkling" alt="header" />
 </div>
 
 <div align="center">
   <a href="https://github.com/AmirSys-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=720&lines=Hi+there!+I'm+Muhammad+Amiruddin+%F0%9F%91%8B;Elite+Student+Programmer+from+Segamat%2C+Johor;Fullstack+Developer+%7C+Cybersecurity+Enthusiast;Building+Tools+that+rival+the+Corporate+Giants;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=720&lines=Hi+there!+I'm+Muhammad+Amiruddin+%F0%9F%91%8B;Elite+Programmer+from+Segamat%2C+Johor;Fullstack+Developer+%7C+Cybersecurity+Enthusiast;Building+Tools+that+rival+the+Corporate+Giants;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="typing" />
   </a>
 </div>
 
@@ -29,7 +29,7 @@
   <table>
     <tr>
       <td>
-        <i>"As a student programmer from Segamat, my ambition and code quality rival the corporate giants.<br/>I build automated systems, secure applications, and push the boundaries of what's possible."</i>
+        <i>"As an independent programmer from Segamat, my ambition and code quality rival the corporate giants.<br/>I build automated systems, secure applications, and push the boundaries of what's possible."</i>
       </td>
     </tr>
   </table>
@@ -42,8 +42,7 @@
 ```yaml
 name: Muhammad Amiruddin
 alias: Mr.Arsyad
-role: Student Programmer & Fullstack Developer
-school: SMK Paduka Tuan Segamat
+role: Independent Programmer & Fullstack Developer
 location: Segamat, Johor — Malaysia
 languages_spoken: [Bahasa Melayu, English]
 fun_fact: I smash bugs by day and shuttlecocks by night
