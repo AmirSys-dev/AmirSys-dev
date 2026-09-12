@@ -1,32 +1,44 @@
-### Hi, I'm Amir.
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Muhammad Amiruddin Arsyad — Software & Systems Engineer. Bots, full-stack web, homelab infra, network security.">
+</p>
 
-Programmer from Segamat, Johor. I build web apps, Discord bots, and small server tools — mostly with Node.js, React, and Python.
+Self-taught **Software & Systems Engineer** from Segamat, Johor — coding since Darjah 4 (2021). I build Telegram/WhatsApp bots, full-stack web apps, homelab infrastructure, and network security tooling.
 
-Known online as **Mr.Arsyad**.
+Portfolio: **[arsyads.dev](https://arsyads.dev)** · Known online as **Mr. Arsyad**
 
 ---
 
 #### What I'm doing
 
-- Working on a few personal projects (web apps + Discord bots)
+- Working on personal projects (web apps + Discord bots)
 - Tinkering with VPS/cPanel automation
-- Learning more about web security and Next.js
+- Exploring web security and Next.js
 
-#### Stack I reach for
+#### Stack
 
-`TypeScript` · `Node.js` · `React / Next.js` · `Python` · `Tailwind` · `MySQL / MongoDB` · `Linux`
+`Telegram Bot` · `WhatsApp Bot` · `Node.js` · `React / Next.js` · `WireGuard` · `Pterodactyl` · `cPanel/VPS` · `Network Security` · `TypeScript`
 
-#### Projects worth a look
+#### Projects
 
 - [**Web-Security-Toolkit**](https://github.com/AmirSys-dev/Web-Security-Toolkit) — toolkit for basic web app auditing.
 - [**Cexi-Drive**](https://github.com/AmirSys-dev/Cexi-Drive) — cloud storage built with Next.js.
 - [**CPanel-Management-Engine**](https://github.com/AmirSys-dev/CPanel-Management-Engine) — automation for cPanel/VPS workflows.
 - [**BotProtect-Discord-Bot**](https://github.com/AmirSys-dev/BotProtect-Discord-Bot) — Discord bot for file monitoring and server protection.
 
+---
+
+#### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmirSys-dev/AmirSys-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmirSys-dev/AmirSys-dev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/AmirSys-dev/AmirSys-dev/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+---
+
 #### Contact
 
-Email · [amirsyse@gmail.com](mailto:amirsyse@gmail.com) &nbsp;·&nbsp;
-Telegram · [@colebrs](https://t.me/colebrs) &nbsp;·&nbsp;
-WhatsApp · [+60 11-7134 1399](https://wa.me/601171341399)
+[amirsyse@gmail.com](mailto:amirsyse@gmail.com) · [Telegram](https://t.me/colebrs) · [WhatsApp](https://wa.me/601171341399)
 
-<sub>Off the keyboard, I play badminton.</sub>
+<sub>Off keyboard, play badminton.</sub>

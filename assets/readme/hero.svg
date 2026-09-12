@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="280" viewBox="0 0 1200 280"
+     role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Amiruddin Arsyad — Software & Systems Engineer</title>
+  <desc id="desc">Amiruddin Arsyad (Mr. Arsyad) — 15yo self-taught engineer from Segamat. Telegram bots, full-stack web, homelab infra, network security.</desc>
+
+  <defs>
+    <!-- Minimal gradient for depth only -->
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0c0f14"/>
+      <stop offset="100%" stop-color="#090b0f"/>
+    </linearGradient>
+    
+    <!-- Border line only where needed -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#151a21" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background with subtle grid (only bottom half) -->
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect y="180" width="1200" height="100" fill="url(#grid)" opacity="0.3"/>
+
+  <!-- Left: Name block — big, bold, no decoration -->
+  <g transform="translate(64 56)">
+    <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+          font-size="18" letter-spacing="2" fill="#5f7187">
+      MUHAMMAD AMIRUDDIN ARSYAD
+    </text>
+    
+    <text y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+          font-size="56" font-weight="800" fill="#eaeff5"
+          style="letter-spacing: -0.02em;">
+      SYSTEMS ENGINEER
+    </text>
+    
+    <text y="98" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+          font-size="15" fill="#6f7b8a">
+      Segmental · Bots · Full-Stack · Homelab
+    </text>
+  </g>
+
+  <!-- Right: Single bold element — terminal code snippet -->
+  <g transform="translate(856 96)">
+    <rect width="280" height="76" rx="8" fill="#0a0c10" stroke="#1f2430" stroke-width="1.5"/>
+    
+    <!-- Language label top-left -->
+    <text x="12" y="18" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+          font-size="10" fill="#3a4b66">
+      bash
+    </text>
+    
+    <!-- Code lines -- keep actual commands relevant to portfolio -->
+    <text x="12" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+          font-size="12" fill="#9bb4cf">
+      whoami
+    </text>
+    <text x="12" y="58" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+          font-size="12" fill="#7fb8ca">
+      ≡ software engineer
+    </text>
+    <text x="12" y="74" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+          font-size="12" fill="#5a6b87">
+      ≡ arsyads.dev
+    </text>
+  </g>
+</svg>
