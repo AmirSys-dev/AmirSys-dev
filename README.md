@@ -1,29 +1,38 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Muhammad Amiruddin Arsyad — Software & Systems Engineer. Bots, full-stack web, homelab infra, network security.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Muhammad Amiruddin Arsyad — Systems Engineer">
 </p>
 
-Self-taught **Software & Systems Engineer** from Segamat, Johor — coding since Darjah 4 (2021). I build Telegram/WhatsApp bots, full-stack web apps, homelab infrastructure, and network security tooling.
+Self-taught **Systems Engineer** from Segamat, Johor — coding since Darjah 4 (2021). I build Telegram/WhatsApp bots, full-stack web apps, homelab infrastructure, and network security tooling.
 
-Portfolio: **[arsyads.dev](https://arsyads.dev)** · Known online as **Mr. Arsyad**
+[arsyads.dev](https://arsyads.dev) · Mr. Arsyad
 
 ---
-
-#### What I'm doing
-
-- Working on personal projects (web apps + Discord bots)
-- Tinkering with VPS/cPanel automation
-- Exploring web security and Next.js
 
 #### Stack
 
 `Telegram Bot` · `WhatsApp Bot` · `Node.js` · `React / Next.js` · `WireGuard` · `Pterodactyl` · `cPanel/VPS` · `Network Security` · `TypeScript`
 
+#### Certifications
+
+**freeCodeCamp:**
+- [Responsive Web Design](https://www.freecodecamp.org/)
+- [JavaScript Algorithms & Data Structures](https://www.freecodecamp.org/)
+- [Front-End Development Libraries](https://www.freecodecamp.org/)
+- [Data Visualization with D3](https://www.freecodecamp.org/)
+
+#### What I Work On
+- **Telegram & WhatsApp bots** — custom automation, moderation, real-time monitoring
+- **Full-stack web apps** — React, Next.js, TypeScript stacks
+- **Homelab infrastructure** — Pterodactyl game servers, WireGuard VPN, cPanel/VPS automation
+- **Network security** — DDoS mitigation, vulnerability scanning, security auditing
+- **AI-augmented engineering** — prompt engineering, code generation workflows
+
 #### Projects
 
-- [**Web-Security-Toolkit**](https://github.com/AmirSys-dev/Web-Security-Toolkit) — toolkit for basic web app auditing.
-- [**Cexi-Drive**](https://github.com/AmirSys-dev/Cexi-Drive) — cloud storage built with Next.js.
-- [**CPanel-Management-Engine**](https://github.com/AmirSys-dev/CPanel-Management-Engine) — automation for cPanel/VPS workflows.
-- [**BotProtect-Discord-Bot**](https://github.com/AmirSys-dev/BotProtect-Discord-Bot) — Discord bot for file monitoring and server protection.
+- **[Web-Security-Toolkit](https://github.com/AmirSys-dev/Web-Security-Toolkit)** — Web application security auditing toolkit for vulnerability scanning and assessments
+- **[Cexi-Drive](https://github.com/AmirSys-dev/Cexi-Drive)** — Next.js cloud storage solution with file management and synchronization features
+- **[CPanel-Management-Engine](https://github.com/AmirSys-dev/CPanel-Management-Engine)** — Automated workflow engine for cPanel/VPS server deployment and management
+- **[BotProtect-Discord-Bot](https://github.com/AmirSys-dev/BotProtect-Discord-Bot)** — Discord bot for real-time file monitoring, automated moderation, and server protection
 
 ---
 
